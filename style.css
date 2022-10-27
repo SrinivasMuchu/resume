@@ -1,0 +1,77 @@
+*{
+    margin: 10px auto;
+    
+}
+
+
+.photo{
+    position: absolute;
+    top: 20px;
+    left: 5%;
+}
+.name{
+    position: absolute;
+    float: inline-end;
+    top: 50PX;
+    right: 50px;
+    width: 75%;
+    margin-top: 0px;
+    border: 2px solid black;
+}
+
+table,tr,td,th{
+    width: 45%;
+    border:1px solid black;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.table{
+    position: absolute;
+    top: 35%;
+    right: 60px;
+}
+.edu{
+    position: absolute;
+    top: 30%;
+    right: 39%;
+}
+.course{
+    position: absolute;
+    top: 70%;
+    right: 26%;
+}
+.cert{
+    position: absolute;
+    top: 90%;
+    right: 36%;
+}
+.icons{
+    position: absolute;
+    top: 31%;
+    left: 75px;
+}
+.skill{
+    position: absolute;
+    top: 85%;
+    left: 75px;
+}
+.lang{
+    position: absolute;
+    top: 113%;
+    left: 75px;
+}
+.pro{
+    position: absolute;
+    top: 107%;
+    right: -50.5%;
+}
+.intr{
+    position: absolute;
+    top: 143%;
+    left: 75px;
+}
+h2{
+    text-decoration: underline;
+    text-decoration-line: 55px;
+}
